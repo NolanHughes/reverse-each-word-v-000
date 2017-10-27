@@ -11,4 +11,3 @@ def reverse_each_word(string)
     word << reversed
   end
 end
-
