@@ -10,6 +10,5 @@ def reverse_each_word(string)
   string.each do |word|
     word << reversed
   end
-
     reversed.split(" ")
 end
