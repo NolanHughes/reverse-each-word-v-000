@@ -8,4 +8,4 @@ def reverse_each_word(string)
   string.split(" , ")
 end
 string = "Hello you dumb bitch!"
-reverse_each_word()
+reverse_each_word(string)
